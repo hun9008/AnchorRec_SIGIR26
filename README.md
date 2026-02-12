@@ -4,8 +4,6 @@
 
 We develop AnchorRec based on [MMRec]("https://github.com/enoche/MMRec"). Please refer to MMRec for data preparation and basic usage.
 
-(주요 변경사항은 다음과 같고 /src/anchorrec.py, src/config.ANCHORREC.yaml 을 MMRec에 추가해 실행하거나 bash run.sh로 실행할 수 있다.)
-
 We add the following files for AnchorRec implementation:
 ```
 src/anchorrec.py
